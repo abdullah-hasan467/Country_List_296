@@ -1,6 +1,8 @@
+import { Country } from "../components/UI/CountriesInfo"
+
 export const About =() =>{
 
     return(
-        <h1>About Page</h1>
+       <Country/>
     )
 }

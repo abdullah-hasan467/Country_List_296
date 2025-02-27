@@ -20,15 +20,17 @@ Home
 </NavLink>
 
         </li>
-        <li>
-        <NavLink to = "country">
-Country
-</NavLink>
-
-        </li>
+        
         <li>
         <NavLink to = "about">
 About
+</NavLink>
+
+        </li>
+
+        <li>
+        <NavLink to = "country">
+Country
 </NavLink>
 
         </li>

@@ -35,13 +35,16 @@ button {
   letter-spacing: 0.1rem;
   line-height: 1.6;
   color: #fff;
+  text-decoration: none;
 }
 
 li {
-  list-style: none;
+  list-style:none;
+  text-decoration: none;
+  
 }
 
-a {
+a,li {
   color: #000;
 
   &:hover {
